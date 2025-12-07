@@ -75,7 +75,7 @@ def init_websters_dictionary(verbose: bool=True):
 def get_dictionary_words(include_hyphenated: bool = False, verbose: bool = True):
     """
     Parses a list of 'all' words out of the dictionary file
-    This project in general is used to solve the Daily Wall Street Journal Spelling Bee puzzle
+    This project in general is used to solve the Daily New York Times Spelling Bee puzzle
     and thus excludes hyphenated words by default, as these don't apply to the puzzle,
     the dictionary file is formatted in such a way that a word is always on a single line on its own
     with its definition beneath it.  Thus, we can look for just a complete match

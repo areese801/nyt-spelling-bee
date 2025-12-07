@@ -1,5 +1,5 @@
 """
-Main program to brute force (dictionary attack, more accurately) the Wallstreet Journal Spelling Bee Puzzle
+Main program to brute force (dictionary attack, more accurately) the New York Times Spelling Bee Puzzle
 """
 
 import string
